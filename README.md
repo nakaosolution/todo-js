@@ -1,2 +1,2 @@
 # todo-js
-ライブラリなしで作成したTodoリストです。
+JavaScriptで作成したTodoリストです。
