@@ -1,2 +1,2 @@
 # todo-js
-Created with CodeSandbox
+ライブラリなしで作成したTodoリストです。
